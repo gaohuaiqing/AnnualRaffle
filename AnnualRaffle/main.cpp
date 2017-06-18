@@ -1,7 +1,7 @@
 #include "dialog.h"
 #include <QApplication>
 
-#define UH_TOOL_VERSION        "v1.0"
+#define UH_TOOL_VERSION        "v1.1"
 
 int main(int argc, char *argv[])
 {
